@@ -1,0 +1,49 @@
+/* Estilos universales */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Righteous', cursive;
+    font-size: 5rem;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Rock Salt', cursive;
+}
+
+h3 {
+    font-family: 'Gloria Hallelujah', cursive;
+    color: red;
+    font-size: 50px;
+}
+
+.contenedor {
+    width: 600px;
+    height: 400px;
+    color: palevioletred;
+    background-color: slateblue;
+    border: 2px violet solid;
+    padding: 10px 30px;
+    margin: 10px;
+    background-image: url(../img/la-pantera-rosa.png);
+    background-repeat: no-repeat;
+    background-size: 500px;
+}
+
+.contenedor2 {
+    width: 600px;
+    height: 400px;
+    color: black;
+    background-color: yellow;
+    border: 2px black solid;
+    padding: 10px 30px;
+    margin: 10px;
+    background-image: url(../img/simpson.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
